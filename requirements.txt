@@ -1,0 +1,12 @@
+six==1.11.0
+python-bidi
+Pillow
+webencodings
+html5lib
+pyPdf2
+future==0.16.0
+setuptools
+arabic-reshaper
+reportlab
+xhtml2pdf
+botocore==1.17
